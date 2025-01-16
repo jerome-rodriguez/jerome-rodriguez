@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerome!</h1>
 <h3 align="center">Welcome to my GitHub :) I'm a full-stack software engineer from Toronto.</h3>
-<img align="right" alt="cute cat coding" width="300" src="https://tenor.com/view/goma-typing-goma-cat-typing-gif-17469691104686678640">
+<img align="right" alt="cute cat coding" width="300" src="[https://tenor.com/view/goma-typing-goma-cat-typing-gif-17469691104686678640](https://media1.tenor.com/m/8nDPgFamonAAAAAC/goma-typing-goma-cat-typing.gif)">
 
 - 🌱 I’m currently learning **full-stack development @ BrainStation**
 
