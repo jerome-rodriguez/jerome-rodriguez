@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jerome.rodriguez@torontomu.ca**
 
-- ⚡ Fun fact: **my MBTI is enfj :)**
+- ⚡ Fun fact: **My MBTI is ENFJ :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
