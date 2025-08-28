@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerome!</h1>
-<h3 align="center">Welcome to my GitHub :) I'm a full-stack software engineer from Toronto.</h3>
+<h3 align="center">Welcome to my GitHub :) I'm an aspiring software engineer from Toronto.</h3>
 <img align="right" alt="cute cat coding" width="200" src="https://media1.tenor.com/m/8nDPgFamonAAAAAC/goma-typing-goma-cat-typing.gif">
 
 - 🌱 I’m currently studying **Computer Science @ Toronto Metropolitan University**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jerome.rodriguez@torontomu.ca**
 
-- ⚡ Fun fact **I'm an enfj :)**
+- ⚡ Fun fact **I'm an enfj**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
