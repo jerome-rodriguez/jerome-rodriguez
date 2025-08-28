@@ -2,13 +2,13 @@
 <h3 align="center">Welcome to my GitHub :) I'm a full-stack software engineer from Toronto.</h3>
 <img align="right" alt="cute cat coding" width="200" src="https://media1.tenor.com/m/8nDPgFamonAAAAAC/goma-typing-goma-cat-typing.gif">
 
-- 🌱 I’m currently learning **full-stack development @ BrainStation**
+- 🌱 I’m currently studying **Computer Science @ Toronto Metropolitan University**
 
 - 💬 Ask me about **fitness, travelling, or EDM music**
 
 - 📫 How to reach me **jerome.rodriguez@torontomu.ca**
 
-- ⚡ Fun fact **I'm a gemini**
+- ⚡ Fun fact: **my MBTI is enfj :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
