@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jerome.rodriguez@torontomu.ca**
 
-- ⚡ Fun fact **I'm an enfj**
+- ⚡ Fun fact **I'm an enfj :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
